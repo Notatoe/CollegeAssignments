@@ -1,0 +1,1 @@
+To run Blockchain.py, enter the command /python3 Blockchain into a terminal. Then follow the instructions given by the program.

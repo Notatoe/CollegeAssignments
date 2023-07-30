@@ -1,0 +1,17 @@
+C:\Users\grtfl\Desktop\john-1.9.0-jumbo-1-win64\run>john --wordlist=C:\Users\grtfl\Desktop\wordlist.txt C:\Users\grtfl\Desktop\Shadow.txt
+Warning: detected hash type "md5crypt", but the string is also recognized as "md5crypt-long"
+Use the "--format=md5crypt-long" option to force loading these as that type instead
+Warning: detected hash type "md5crypt", but the string is also recognized as "md5crypt-opencl"
+Use the "--format=md5crypt-opencl" option to force loading these as that type instead
+Using default input encoding: UTF-8
+Loaded 20 password hashes with 20 different salts (md5crypt, crypt(3) $1$ (and variants) [MD5 256/256 AVX2 8x3])
+Will run 8 OpenMP threads
+Press 'q' or Ctrl-C to abort, almost any other key for status
+increased        (user7)
+cincinnati       (user19)
+forwarding       (user6)
+revolutionary    (user16)
+longitude        (user14)
+5g 0:00:00:00 DONE (2022-11-05 03:48) 34.72g/s 15534p/s 295625c/s 295625C/s regulated..configurations
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed

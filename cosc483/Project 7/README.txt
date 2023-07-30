@@ -1,0 +1,1 @@
+To run this SRP.py, enter the command /python3 SRP into a terminal. Then follow the instructions given by the program.
